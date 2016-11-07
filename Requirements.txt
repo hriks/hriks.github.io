@@ -1,0 +1,4 @@
+pip-installed version:
+pip-installed 				Versions
+Flask						0.11.1
+requests					2.2.1
